@@ -1,3 +1,11 @@
-enhanced_dataset.csv
 dataset.csv
 venv
+.ipynb_checkpoints
+venv
+dataset.csv
+encoded_insurance_data.csv
+processed_insurance_data.csv
+X_test.csv
+X_train.csv
+y_test.csv
+y_train.csv
